@@ -1,0 +1,6 @@
+Loading configuration file... ok
+Loading data in memory... ok
+Running join algorithm... ok
+
+RUNTIME TOTAL, BUILD+PART, PART (cycles): 
+14525426979	10963224671	10510492127
